@@ -1,0 +1,41 @@
+PROPULSION
+2x Blue Robotics M200 motors w/ their ESCs, propellers and (optionally) propeller caps (https://bluerobotics.com/store/thrusters/t100-t200-thrusters/m200-motor/)
+NOTE: There are 2 different versions of the M200 motor. The standard M200 motor and a BlueBoat variant of the M200 motor with installed bulkhead penetrator and cable connector. If you get the latter, be aware that the motor mounts will need to be modified as the cable attaches to the motor at the base and not at the side.
+NOTE 2: Be sure that when you purchase the propellors for the M200 motors that you get one that turns clockwise and one that turns counterclockwise.
+
+AUTOPILOT 
+1x RadioLink PixHawk (https://www.robotshop.com/products/radiolink-pixhawk-advanced-autopilot)
+1x Radiolink SE100 GPS Module for PixHawk (https://www.robotshop.com/products/radiolink-se100-gps-module-pixhawk))
+1x Set of SiK Telemetry Radios such as the Holybro SiK Telemetry Radio V3 (https://holybro.com/products/sik-telemetry-radio-v3)
+
+RC TRANSMITTER AND RECIEVER
+1x FrSky Taranis X9 Lite RC Transmitter (https://www.frsky-rc.com/product/taranis-x9-lite/)
+1x FrSkt X8R RC Reciever (https://www.frsky-rc.com/product/x8r/)
+
+POWER AND WIRING
+1x 4S 5000 mAh 50C LiPo Battery with XT60 (https://www.amazon.com/HRB-Battery-Connector-Quadcopter-Airplane/dp/B07CYRTBQY?dchild=1&keywords=hrb+5000mah+14.8+v+lipo&qid=1591382260&sr=8-1)
+1x Screw terminal strip (https://www.amazon.com/Marine-Terminal-Nickel-0113-10-3640-06-Dinkle/dp/B00TU6AYAG?dchild=1&keywords=6+screw+terminal+35a&qid=1591384157&sr=8-11)
+12 AWG Wire
+12 AWG Wire Spade Crimp Connectors
+
+3D PRINTED PARTS
+2x M200 Mounts
+2x Paddleboard Fin Mounts & Brackets
+
+HARDWARE
+2x Paddleboard Fins such as the Abahub 9/10'' SUP Single Center Fin (https://www.amazon.com/dp/B0C5GK45QN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1)
+1x IP65 Junction Box (https://www.amazon.com/Zulkit-Waterproof-Electrical-Transparent-290x190x140mm/dp/B081M1MVJ6?crid=3TA54885N0AI4&dchild=1&keywords=ip65%2Bjunction%2Bbox&qid=1591385466&sprefix=ip65%2B%2Caps%2C235&sr=8-10&th=1)
+1/4" thick hobby plywood with dimensions greater than the Junction Box, 300mm x 200mm x 160mm 
+M6 Nuts
+M3 Bolts At lengths of 25mm,15mm,10mm
+M3 Nuts
+1x 10-32 Threaded rod, 36" (https://www.amazon.com/Stainless-Threaded-Thread-Length-Threads/dp/B000FN12TA?c=ts&dib=eyJ2IjoiMSJ9.kROeaKgPR1SAKsLlBQt-gsEF9zUUr7qAdCbIf1MzDkTGjHj071QN20LucGBJIEps.PgK13V003KUcJQnVexq-KLLlLxSEFpnoTPdkBcKKPrU&dib_tag=se&keywords=Threaded%2BRods%2B%26%2BStuds&qid=1747940360&refinements=p_11%3A%2310-32&s=industrial&sr=1-1&ts_id=16410711&th=1)
+3x 12' 8-32 Threaded Rod (https://www.amazon.com/dp/B002CTCBFO?ref=ppx_yo2ov_dt_b_fed_asin_title)
+10-32 Nuts
+10-32 Washers
+8-32 Nuts
+8-32 Washers
+Adhesive Velcro
+
+SONAR
+Humminbird Helix 7
